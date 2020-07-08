@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Skill-Led/player-music-online/precache-manifest.d2816a7b91a93bdd77c527bad378a7be.js"
+  "/Skill-Led/player-music-online/precache-manifest.6cb58571847df25c682856a623452bde.js"
 );
 
 self.addEventListener('message', (event) => {

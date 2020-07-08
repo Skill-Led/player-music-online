@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Skill-Led/player-music-online/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Skill-Led/player-music-online/static/js/main.84513612.chunk.js",
-    "main.js.map": "/Skill-Led/player-music-online/static/js/main.84513612.chunk.js.map",
+    "main.js": "/Skill-Led/player-music-online/static/js/main.065507f1.chunk.js",
+    "main.js.map": "/Skill-Led/player-music-online/static/js/main.065507f1.chunk.js.map",
     "runtime-main.js": "/Skill-Led/player-music-online/static/js/runtime-main.79045127.js",
     "runtime-main.js.map": "/Skill-Led/player-music-online/static/js/runtime-main.79045127.js.map",
     "static/js/2.fcf9fbde.chunk.js": "/Skill-Led/player-music-online/static/js/2.fcf9fbde.chunk.js",
     "static/js/2.fcf9fbde.chunk.js.map": "/Skill-Led/player-music-online/static/js/2.fcf9fbde.chunk.js.map",
     "index.html": "/Skill-Led/player-music-online/index.html",
-    "precache-manifest.d2816a7b91a93bdd77c527bad378a7be.js": "/Skill-Led/player-music-online/precache-manifest.d2816a7b91a93bdd77c527bad378a7be.js",
+    "precache-manifest.6cb58571847df25c682856a623452bde.js": "/Skill-Led/player-music-online/precache-manifest.6cb58571847df25c682856a623452bde.js",
     "service-worker.js": "/Skill-Led/player-music-online/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/Skill-Led/player-music-online/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.fcf9fbde.chunk.js.LICENSE.txt": "/Skill-Led/player-music-online/static/js/2.fcf9fbde.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.79045127.js",
     "static/js/2.fcf9fbde.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.84513612.chunk.js"
+    "static/js/main.065507f1.chunk.js"
   ]
 }
